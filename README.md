@@ -2,7 +2,7 @@
 
 This repository contains solutions to various LeetCode problems categorized by difficulty: **Easy**, **Medium**, and **Hard**.
 
-## [Easy](easy)
+## <span style="color:green">[Easy](easy)</span>
 
 | #   | Problem                                          | Solution                           | Type           |
 | --- | ------------------------------------------------ | ---------------------------------- | -------------- |
