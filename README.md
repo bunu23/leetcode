@@ -4,9 +4,10 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ## 🟢 [Easy](easy)
 
-| #   | Problem                                                                               | Solution                                           | Type       |
-| --- | ------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](easy/reverse-linked-list/Solution.java) | LinkedList |
+| #   | Problem                                                                                     | Solution                                              | Type       |
+| --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
+| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       | [Solution](easy/reverse-linked-list/Solution.java)    | LinkedList |
+| 2   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution](easy/palindrome-linked-list/Solution.java) | LinkedList |
 
 ---
 
