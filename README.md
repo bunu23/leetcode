@@ -4,23 +4,23 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ## Table of Contents
 
-- [Easy](#easy)
-- [Medium](#medium)
-- [Hard](#hard)
+1. [Easy](#easy)
+2. [Medium](#medium)
+3. [Hard](#hard)
 
-## Easy
+## Easy[easy]
 
 | #   | Problem                                          | Solution                           | Type           |
 | --- | ------------------------------------------------ | ---------------------------------- | -------------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](./solutions/two_sum.py) | Array, HashMap |
 
-## Medium
+## Medium[medium]
 
 | #   | Problem                                                          | Solution                                   | Type              |
 | --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------- |
 | 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution](./solutions/add_two_numbers.py) | Linked List, Math |
 
-## Hard
+## Hard[hard]
 
 | #   | Problem                                                                                  | Solution                                        | Type                 |
 | --- | ---------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------- |
@@ -36,16 +36,14 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ## Directory Structure
 
-```bash
 📂 project-root
 ├── 📂 easy
-│   ├── two_sum.py
-│   ├── valid_palindrome.py
+│ ├── TwoSum.java
+│ ├── ValidPalindrome.java
 ├── 📂 medium
-│   ├── add_two_numbers.py
-│   ├── longest_substring.py
+│ ├── AddTwoNumbers.java
+│ ├── LongestSubstring.java
 ├── 📂 hard
-│   ├── median_sorted_arrays.py
-│   ├── regex_matching.py
+│ ├── MedianSortedArrays.java
+│ ├── RegexMatching.java
 └── README.md
-```
