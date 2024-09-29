@@ -2,12 +2,6 @@
 
 This repository contains solutions to various LeetCode problems categorized by difficulty: **Easy**, **Medium**, and **Hard**.
 
-## Table of Contents
-
-1. [Easy](#easy)
-2. [Medium](#medium)
-3. [Hard](#hard)
-
 ## [Easy](easy)
 
 | #   | Problem                                          | Solution                           | Type           |
@@ -34,16 +28,20 @@ This repository contains solutions to various LeetCode problems categorized by d
 - **Solution**: Links to the corresponding solution code file located in the appropriate difficulty folder (`easy`, `medium`, or `hard`).
 - **Type**: Describes the category or type of problem (like Array, Dynamic Programming, etc.).
 
+---
+
 ## Directory Structure
 
+```bash
 📂 project-root
 ├── 📂 easy
-│ ├── TwoSum.java
-│ ├── ValidPalindrome.java
+│   ├── TwoSum.java
+│   ├── ValidPalindrome.java
 ├── 📂 medium
-│ ├── AddTwoNumbers.java
-│ ├── LongestSubstring.java
+│   ├── AddTwoNumbers.java
+│   ├── LongestSubstring.java
 ├── 📂 hard
-│ ├── MedianSortedArrays.java
-│ ├── RegexMatching.java
+│   ├── MedianSortedArrays.java
+│   ├── RegexMatching.java
 └── README.md
+```
