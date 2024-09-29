@@ -2,7 +2,21 @@
 
 This repository contains solutions to various LeetCode problems categorized by difficulty: **Easy**, **Medium**, and **Hard**.
 
+# Table of Contents
+
+1. [Easy](#easy)
+   - [Linked List](#linkedlist)
+   - [Subcategory 2](#easy-subcategory-2)
+2. [Medium](#medium)
+   - [Subcategory 1](#medium-subcategory-1)
+   - [Subcategory 2](#medium-subcategory-2)
+3. [Hard](#hard)
+   - [Subcategory 1](#hard-subcategory-1)
+   - [Subcategory 2](#hard-subcategory-2)
+
 ## 🟢 [Easy](easy)
+
+## [Linked List](https://leetcode.com/problemset/?search=linked+list&page=1&difficulty=EASY)
 
 | #   | Problem                                                                                     | Solution                                              | Type       |
 | --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
