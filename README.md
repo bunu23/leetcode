@@ -56,13 +56,19 @@ This repository contains solutions to various LeetCode problems categorized by d
 ```bash
 📂 project-root
 ├── 📂 easy
-│   ├── TwoSum.java
-│   ├── ValidPalindrome.java
+│   ├── 📂 TwoSum
+│   │   └── TwoSum.java
+│   ├── 📂 ValidPalindrome
+│       └── ValidPalindrome.java
 ├── 📂 medium
-│   ├── AddTwoNumbers.java
-│   ├── LongestSubstring.java
+│   ├── 📂 AddTwoNumbers
+│   │   └── AddTwoNumbers.java
+│   ├── 📂 LongestSubstring
+│       └── LongestSubstring.java
 ├── 📂 hard
-│   ├── MedianSortedArrays.java
-│   ├── RegexMatching.java
+│   ├── 📂 MedianSortedArrays
+│   │   └── MedianSortedArrays.java
+│   ├── 📂 RegexMatching
+│       └── RegexMatching.java
 └── README.md
 ```
