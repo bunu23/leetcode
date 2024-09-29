@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions (JAVA)
 
 This repository contains solutions to various LeetCode problems categorized by difficulty: **Easy**, **Medium**, and **Hard**.
 
@@ -13,6 +13,8 @@ This repository contains solutions to various LeetCode problems categorized by d
 3. [Hard](#-hard)
    - [Subcategory 1](#hard-subcategory-1)
    - [Subcategory 2](#hard-subcategory-2)
+
+---
 
 ## 🟢 [Easy](easy)
 
