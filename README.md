@@ -8,11 +8,15 @@ This repository contains solutions to various LeetCode problems categorized by d
 | --- | ------------------------------------------------ | ---------------------------------- | -------------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](./solutions/two_sum.py) | Array, HashMap |
 
+---
+
 ## [Medium](medium)
 
 | #   | Problem                                                          | Solution                                   | Type              |
 | --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------- |
 | 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution](./solutions/add_two_numbers.py) | Linked List, Math |
+
+---
 
 ## [Hard](hard)
 
