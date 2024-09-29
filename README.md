@@ -4,9 +4,9 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ## [Easy](easy)
 
-| #   | Problem                                          | Solution                           | Type           |
-| --- | ------------------------------------------------ | ---------------------------------- | -------------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](./solutions/two_sum.py) | Array, HashMap |
+| #   | Problem                                                                               | Solution                                           | Type       |
+| --- | ------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](easy/reverse-linked-list/Solution.java) | LinkedList |
 
 ---
 
