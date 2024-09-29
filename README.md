@@ -16,7 +16,7 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ## 🟢 [Easy](easy)
 
-## [Linked List](https://leetcode.com/problemset/?search=linked+list&page=1&difficulty=EASY)
+### Linked List
 
 | #   | Problem                                                                                     | Solution                                              | Type       |
 | --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
