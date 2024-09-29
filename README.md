@@ -8,19 +8,19 @@ This repository contains solutions to various LeetCode problems categorized by d
 2. [Medium](#medium)
 3. [Hard](#hard)
 
-## Easy[easy]
+## [Easy](easy)
 
 | #   | Problem                                          | Solution                           | Type           |
 | --- | ------------------------------------------------ | ---------------------------------- | -------------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](./solutions/two_sum.py) | Array, HashMap |
 
-## Medium[medium]
+## [Medium](medium)
 
 | #   | Problem                                                          | Solution                                   | Type              |
 | --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------- |
 | 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution](./solutions/add_two_numbers.py) | Linked List, Math |
 
-## Hard[hard]
+## [Hard](hard)
 
 | #   | Problem                                                                                  | Solution                                        | Type                 |
 | --- | ---------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------- |
