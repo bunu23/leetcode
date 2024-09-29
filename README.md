@@ -2,7 +2,7 @@
 
 This repository contains solutions to various LeetCode problems categorized by difficulty: **Easy**, **Medium**, and **Hard**.
 
-## [Easy](easy)
+## 🟢 [Easy](easy)
 
 | #   | Problem                                          | Solution                           | Type           |
 | --- | ------------------------------------------------ | ---------------------------------- | -------------- |
@@ -10,7 +10,7 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ---
 
-## [Medium](medium)
+## 🟠 [Medium](medium)
 
 | #   | Problem                                                          | Solution                                   | Type              |
 | --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------- |
@@ -18,7 +18,7 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ---
 
-## [Hard](hard)
+## 🔴 [Hard](hard)
 
 | #   | Problem                                                                                  | Solution                                        | Type                 |
 | --- | ---------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------- |
