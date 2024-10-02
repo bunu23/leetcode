@@ -23,23 +23,16 @@ This repository contains solutions to various LeetCode problems categorized by d
 | #   | Problem                                                                                     | Solution                                              | Type       |
 | --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
 | 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)       | [Solution](easy/reverse-linked-list/Solution.java)    | LinkedList |
+| 3   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](easy/merge-two-sorted-lists/Solution.java) | LinkedList |
 | 2   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution](easy/palindrome-linked-list/Solution.java) | LinkedList |
 
 ---
 
 ## 🟠 [Medium](medium)
 
-| #   | Problem                                                          | Solution                                   | Type              |
-| --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------- |
-| 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution](./solutions/add_two_numbers.py) | Linked List, Math |
-
 ---
 
 ## 🔴 [Hard](hard)
-
-| #   | Problem                                                                                  | Solution                                        | Type                 |
-| --- | ---------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------- |
-| 1   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Solution](./solutions/median_sorted_arrays.py) | Array, Binary Search |
 
 ---
 
