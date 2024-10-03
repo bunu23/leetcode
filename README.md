@@ -55,20 +55,20 @@ This repository contains solutions to various LeetCode problems categorized by d
 ```bash
 📂 project-root
 ├── 📂 easy
-│   ├── 📂 array
-│   │   ├── 📂 TwoSumfolder
-│   │   │   └── solution.java
-│   │   ├── 📂 ValidPalindrome
-│   │   │   └── solution.java
-│   ├── 📂 linkedlist
-│   │   └── 📂 AnotherLinkedListProblem
-│   │       └── solution.java
+│   ├── 📂 TwoSum
+│   │   └── TwoSum.java
+│   ├── 📂 ValidPalindrome
+│       └── ValidPalindrome.java
 ├── 📂 medium
-│   ├── 📂 string
-│   │   ├── 📂 LongestSubstring
-│   │   │   └── solution.java
-│   ├── 📂 linkedlist
-│   │   └── 📂 AddTwoNumbers
-│   │       └── solution.java
+│   ├── 📂 AddTwoNumbers
+│   │   └── AddTwoNumbers.java
+│   ├── 📂 LongestSubstring
+│       └── LongestSubstring.java
+├── 📂 hard
+│   ├── 📂 MedianSortedArrays
+│   │   └── MedianSortedArrays.java
+│   ├── 📂 RegexMatching
+│       └── RegexMatching.java
+└── README.md
 
 ```
