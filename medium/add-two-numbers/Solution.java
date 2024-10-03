@@ -1,5 +1,3 @@
-package medium.add-two-numbers;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {

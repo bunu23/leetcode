@@ -5,14 +5,16 @@ This repository contains solutions to various LeetCode problems categorized by d
 # Table of Contents
 
 1. [Easy](#-easy)
+
    - [Linked List](#linked-list)
-   - [Subcategory 2](#easy-subcategory-2)
+
 2. [Medium](#-medium)
-   - [Subcategory 1](#medium-subcategory-1)
-   - [Subcategory 2](#medium-subcategory-2)
+
+   - [Linked List](#linked-list)
+
 3. [Hard](#-hard)
+
    - [Subcategory 1](#hard-subcategory-1)
-   - [Subcategory 2](#hard-subcategory-2)
 
 ---
 
