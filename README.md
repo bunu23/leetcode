@@ -30,6 +30,10 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ## 🟠 [Medium](medium)
 
+| #   | Problem                                                           | Solution                                         | Type       |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------ | ---------- |
+| 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](medium/add-two-numbers/Solution.java) | LinkedList |
+
 ---
 
 ## 🔴 [Hard](hard)
