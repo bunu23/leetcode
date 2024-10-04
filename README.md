@@ -31,6 +31,7 @@ This repository contains solutions to various LeetCode problems categorized by d
 | 5   | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [Solution](easy/linked-list-cycle/Solution.java)               | LinkedList |
 | 6   | [ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](easy/intersection-of-two-linked-list/Solution.java) | LinkedList |
 | 7   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)            | [Solution](easy/remove-linked-list-elements/Solution.java)     | LinkedList |
+| 7   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                | [Solution](easy/middle-of-linked-list/Solution.java)           | LinkedList |
 
 ---
 
