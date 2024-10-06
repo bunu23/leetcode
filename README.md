@@ -31,15 +31,16 @@ This repository contains solutions to various LeetCode problems categorized by d
 | 5   | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [Solution](easy/linked-list-cycle/Solution.java)               | LinkedList |
 | 6   | [ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](easy/intersection-of-two-linked-list/Solution.java) | LinkedList |
 | 7   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)            | [Solution](easy/remove-linked-list-elements/Solution.java)     | LinkedList |
-| 7   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                | [Solution](easy/middle-of-linked-list/Solution.java)           | LinkedList |
+| 8   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                | [Solution](easy/middle-of-linked-list/Solution.java)           | LinkedList |
 
 ---
 
 ## 🟠 [Medium](medium)
 
-| #   | Problem                                                           | Solution                                         | Type       |
-| --- | ----------------------------------------------------------------- | ------------------------------------------------ | ---------- |
-| 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](medium/add-two-numbers/Solution.java) | LinkedList |
+| #   | Problem                                                                                                                                     | Solution                                                                        | Type       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
+| 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | [Solution](medium/add-two-numbers/Solution.java)                                | LinkedList |
+| 2   | [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](medium/delete-nodes-from-linked-list-present-in-array/Solution.java) | LinkedList |
 
 ---
 
