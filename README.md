@@ -37,11 +37,15 @@
 | 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | [Solution](medium/add-two-numbers/Solution.java)                                | LinkedList |
 | 2   | [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](medium/delete-nodes-from-linked-list-present-in-array/Solution.java) | LinkedList |
 
-## [Back to TOC](#table-of-contents)
+[Back to TOC](#table-of-contents)
+
+---
 
 ## 🔴 [Hard](hard)
 
 [Back to TOC](#table-of-contents)
+
+---
 
 ### How to Use
 
