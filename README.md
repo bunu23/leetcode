@@ -6,15 +6,9 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 1. [Easy](#-easy)
 
-   - [Linked List](#linked-list)
-
 2. [Medium](#-medium)
 
-   - [Linked List](#linked-list)
-
 3. [Hard](#-hard)
-
-   - [Subcategory 1](#hard-subcategory-1)
 
 ---
 
