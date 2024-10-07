@@ -22,16 +22,17 @@ This repository contains solutions to various LeetCode problems categorized by d
 
 ### Linked List
 
-| #   | Problem                                                                                                          | Solution                                                       | Type       |
-| --- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------- |
-| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                            | [Solution](easy/reverse-linked-list/Solution.java)             | LinkedList |
-| 2   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                      | [Solution](easy/merge-two-sorted-lists/Solution.java)          | LinkedList |
-| 3   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)                      | [Solution](easy/palindrome-linked-list/Solution.java)          | LinkedList |
-| 4   | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                           | [Solution](easy/remove-duplicates/Solution.java)               | LinkedList |
-| 5   | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [Solution](easy/linked-list-cycle/Solution.java)               | LinkedList |
-| 6   | [ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](easy/intersection-of-two-linked-list/Solution.java) | LinkedList |
-| 7   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)            | [Solution](easy/remove-linked-list-elements/Solution.java)     | LinkedList |
-| 8   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                | [Solution](easy/middle-of-linked-list/Solution.java)           | LinkedList |
+| #   | Problem                                                                                                                           | Solution                                                                       | Type       |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- |
+| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                             | [Solution](easy/reverse-linked-list/Solution.java)                             | LinkedList |
+| 2   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                       | [Solution](easy/merge-two-sorted-lists/Solution.java)                          | LinkedList |
+| 3   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)                                       | [Solution](easy/palindrome-linked-list/Solution.java)                          | LinkedList |
+| 4   | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                            | [Solution](easy/remove-duplicates/Solution.java)                               | LinkedList |
+| 5   | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                | [Solution](easy/linked-list-cycle/Solution.java)                               | LinkedList |
+| 6   | [ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)                  | [Solution](easy/intersection-of-two-linked-list/Solution.java)                 | LinkedList |
+| 7   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)                             | [Solution](easy/remove-linked-list-elements/Solution.java)                     | LinkedList |
+| 8   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                 | [Solution](easy/middle-of-linked-list/Solution.java)                           | LinkedList |
+| 9   | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Solution](easy/minimum-string-length-after-removing-substrings/Solution.java) | Stack      |
 
 ---
 
