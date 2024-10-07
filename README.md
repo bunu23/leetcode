@@ -1,8 +1,6 @@
 # LeetCode Solutions (JAVA)
 
-This repository contains solutions to various LeetCode problems categorized by difficulty: **Easy**, **Medium**, and **Hard**.
-
-# Table of Contents
+### Table of Contents
 
 1. [Easy](#-easy)
 
@@ -28,6 +26,8 @@ This repository contains solutions to various LeetCode problems categorized by d
 | 8   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                 | [Solution](easy/middle-of-linked-list/Solution.java)                           | LinkedList |
 | 9   | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Solution](easy/minimum-string-length-after-removing-substrings/Solution.java) | Stack      |
 
+[Back to TOC](#table-of-contents)
+
 ---
 
 ## 🟠 [Medium](medium)
@@ -37,11 +37,11 @@ This repository contains solutions to various LeetCode problems categorized by d
 | 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | [Solution](medium/add-two-numbers/Solution.java)                                | LinkedList |
 | 2   | [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](medium/delete-nodes-from-linked-list-present-in-array/Solution.java) | LinkedList |
 
----
+## [Back to TOC](#table-of-contents)
 
 ## 🔴 [Hard](hard)
 
----
+[Back to TOC](#table-of-contents)
 
 ### How to Use
 
