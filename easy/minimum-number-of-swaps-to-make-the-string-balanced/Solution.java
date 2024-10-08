@@ -1,9 +1,4 @@
-public class MinimumNumberOfSwap {
-    public static void main(String[] args) {
-        MinimumNumberOfSwap solution = new MinimumNumberOfSwap();
-
-        System.out.println(solution.minSwaps("]][][["));
-    }
+public class Solution {
 
     public int minSwaps(String s) {
 
