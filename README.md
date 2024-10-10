@@ -41,6 +41,7 @@
 | 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | [Solution](medium/add-two-numbers/Solution.java)                                | LinkedList    |
 | 2   | [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](medium/delete-nodes-from-linked-list-present-in-array/Solution.java) | LinkedList    |
 | 3   | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)                   | [Solution](medium/minimum-add-to-make-parentheses-valid/Solution.java)          | String, Stack |
+| 4   | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)                                                         | [Solution](medium/maximum-width-ramp/Solution.java)                             | Array, Stack  |
 
 [Back to TOC](#table-of-contents)
 
