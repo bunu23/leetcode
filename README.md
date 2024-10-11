@@ -36,12 +36,13 @@
 
 ## 🟠 [Medium](medium)
 
-| #   | Problem                                                                                                                                     | Solution                                                                        | Type          |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------- |
-| 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | [Solution](medium/add-two-numbers/Solution.java)                                | LinkedList    |
-| 2   | [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](medium/delete-nodes-from-linked-list-present-in-array/Solution.java) | LinkedList    |
-| 3   | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)                   | [Solution](medium/minimum-add-to-make-parentheses-valid/Solution.java)          | String, Stack |
-| 4   | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)                                                         | [Solution](medium/maximum-width-ramp/Solution.java)                             | Array, Stack  |
+| #   | Problem                                                                                                                                     | Solution                                                                        | Type                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------ |
+| 1   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | [Solution](medium/add-two-numbers/Solution.java)                                | LinkedList                           |
+| 2   | [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](medium/delete-nodes-from-linked-list-present-in-array/Solution.java) | LinkedList                           |
+| 3   | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)                   | [Solution](medium/minimum-add-to-make-parentheses-valid/Solution.java)          | String, Stack                        |
+| 4   | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)                                                         | [Solution](medium/maximum-width-ramp/Solution.java)                             | Array, Stack                         |
+| 5   | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)       | [Solution](medium/the-number-of-the-smallest-unoccupied-chair/Solution.java)    | ArrayList, Priority Queue (Min-Heap) |
 
 [Back to TOC](#table-of-contents)
 
