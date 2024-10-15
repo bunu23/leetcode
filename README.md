@@ -56,14 +56,6 @@
 
 ---
 
-### How to Use
-
-- **Problem**: Links to the LeetCode question for reference.
-- **Solution**: Links to the corresponding solution code file located in the appropriate difficulty folder (`easy`, `medium`, or `hard`).
-- **Type**: Describes the category or type of problem (like Array, Dynamic Programming, etc.).
-
----
-
 ## Directory Structure
 
 ```bash
