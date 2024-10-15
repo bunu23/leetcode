@@ -29,6 +29,7 @@
 | 11  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)                                           | [Solution](easy/binary-tree-preorder-traversal/Solution.java)                      | Stack, Tree               |
 | 12  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)                                         | [Solution](easy/binary-tree-postorder-traversal/Solution.java)                     | Stack, Tree               |
 | 13  | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) | [Solution](easy/minimum-number-of-swaps-to-make-the-string-balanced/Solution.java) | Stack, String,Two Pointer |
+| 14  | [ Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                    | [Solution](easy/palindrome-number/Solution.java)                                   | Math                      |
 
 [Back to TOC](#table-of-contents)
 
