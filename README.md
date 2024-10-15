@@ -43,6 +43,7 @@
 | 3   | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)                   | [Solution](medium/minimum-add-to-make-parentheses-valid/Solution.java)          | String, Stack                        |
 | 4   | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)                                                         | [Solution](medium/maximum-width-ramp/Solution.java)                             | Array, Stack                         |
 | 5   | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)       | [Solution](medium/the-number-of-the-smallest-unoccupied-chair/Solution.java)    | ArrayList, Priority Queue (Min-Heap) |
+| 6   | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)                                 | [Solution](medium/separate-black-and-white-balls/Solution.java)                 | String                               |
 
 [Back to TOC](#table-of-contents)
 
