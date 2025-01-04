@@ -45,6 +45,7 @@
 | 5   | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)       | [Solution](medium/the-number-of-the-smallest-unoccupied-chair/Solution.java)    | ArrayList, Priority Queue (Min-Heap) |
 | 6   | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)                                 | [Solution](medium/separate-black-and-white-balls/Solution.java)                 | String                               |
 | 7   | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/)                           | [Solution](medium/longest-square-streak-in-an-array/Solution.java)              | Array, HashMap                       |
+| 8   | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                    | [Solution](medium/product-of-array-except-self/Solution.java)                   | Array                                |
 
 [Back to TOC](#table-of-contents)
 
