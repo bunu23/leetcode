@@ -29,6 +29,7 @@
 | 13  | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) | [Solution](easy/minimum-number-of-swaps-to-make-the-string-balanced/Solution.java) | Stack, String,Two Pointer |
 | 14  | [ Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                    | [Solution](easy/palindrome-number/Solution.java)                                   | Math                      |
 | 15  | [ Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                      | [Solution](easy/majority-element/Solution.java)                                    | Array                     |
+| 16  | [ Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                          | [Solution](easy/missing-number/Solution.java)                                      | Array                     |
 
 [Back to TOC](#table-of-contents)
 
