@@ -53,9 +53,9 @@
 
 ## 🔴 [Hard](hard)
 
-| #   | Problem                                                                                     | Solution                                         | Type   |
-| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------ |
-| 1   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](medium/add-two-numbers/Solution.java) | Arrays |
+| #   | Problem                                                                                     | Solution                                              | Type   |
+| --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------ |
+| 1   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](hard/first-missing-positive/Solution.java) | Arrays |
 
 [Back to TOC](#table-of-contents)
 
