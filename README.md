@@ -30,6 +30,7 @@
 | 14  | [ Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                    | [Solution](easy/palindrome-number/Solution.java)                                   | Math                      |
 | 15  | [ Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                      | [Solution](easy/majority-element/Solution.java)                                    | Array                     |
 | 16  | [ Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                          | [Solution](easy/missing-number/Solution.java)                                      | Array                     |
+| 17  | [ Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                | [Solution](easy/move-zeroes/Solution.java)                                         | Array                     |
 
 [Back to TOC](#table-of-contents)
 
