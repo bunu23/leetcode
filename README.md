@@ -31,7 +31,8 @@
 | 15  | [ Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                      | [Solution](easy/majority-element/Solution.java)                                    | Array                     |
 | 16  | [ Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                          | [Solution](easy/missing-number/Solution.java)                                      | Array                     |
 | 17  | [ Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                | [Solution](easy/move-zeroes/Solution.java)                                         | Array                     |
-| 18  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                                                      | [Solution](easy/roman-to-integer/Solution.java)                                    | Array                     |
+| 18  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                                                      | [Solution](easy/roman-to-integer/Solution.java)                                    | String                    |
+| 19  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=string)                        | [Solution](easy/longest-common-prefix/Solution.java)                               | String                    |
 
 [Back to TOC](#table-of-contents)
 
