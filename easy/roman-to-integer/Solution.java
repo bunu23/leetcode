@@ -1,10 +1,10 @@
 class Solution {
     public int romanToInt(String s) {
         int sum = 0;
-        char[] chars = s.toCharArray();
         int cur = 0;
 
-        switch (chars[0]) {
+        // step 1 converting first character directly
+        switch (s.charAt(0)) {
             case 'I':
                 cur = 1;
                 break;
@@ -28,9 +28,9 @@ class Solution {
                 break;
         }
 
-        for (int i = 1; i < chars.length; i++) {
+        for (int i = 1; i < s.length(); i++) {
             int next = 0;
-            switch (chars[i]) {
+            switch (s.charAt(i)) {
                 case 'I':
                     next = 1;
                     break;
@@ -54,16 +54,16 @@ class Solution {
                     break;
             }
 
+            // comparing current and the next
             if (cur < next) {
-                sum = sum - cur;
+                sum -= cur;
             } else {
-                sum = sum + cur;
+                sum += cur;
             }
-
             cur = next;
         }
-
         sum += cur;
         return sum;
+
     }
 }
