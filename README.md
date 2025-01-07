@@ -34,7 +34,7 @@
 | 18  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                                                                                         | [Solution](easy/roman-to-integer/Solution.java)                                    | String                    |
 | 19  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=string)                                                           | [Solution](easy/longest-common-prefix/Solution.java)                               | String                    |
 | 20  | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=string)                                                                               | [Solution](easy/valid-parentheses/Solution.java)                                   | String , Stack            |
-| 21  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string) | [Solution](easy/find-the-index-of-the-first-occurrence-in-a-string/Solution.java)  | String , Stack            |
+| 21  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string) | [Solution](easy/find-the-index-of-the-first-occurrence-in-a-string/Solution.java)  | String                    |
 
 [Back to TOC](#table-of-contents)
 
