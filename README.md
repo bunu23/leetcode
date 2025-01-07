@@ -33,6 +33,7 @@
 | 17  | [ Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                | [Solution](easy/move-zeroes/Solution.java)                                         | Array                     |
 | 18  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                                                      | [Solution](easy/roman-to-integer/Solution.java)                                    | String                    |
 | 19  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=string)                        | [Solution](easy/longest-common-prefix/Solution.java)                               | String                    |
+| 20  | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=string)                                            | [Solution](easy/valid-parentheses/Solution.java)                                   | String , Stack            |
 
 [Back to TOC](#table-of-contents)
 
