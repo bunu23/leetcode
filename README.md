@@ -37,6 +37,7 @@
 | 21  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string) | [Solution](easy/find-the-index-of-the-first-occurrence-in-a-string/Solution.java)  | String                    |
 | 22  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=problem-list-v2&envId=string)                                                               | [Solution](easy/length-of-last-word/Solution.java)                                 | String                    |
 | 23  | [ Add Binary](https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=string)                                                                                | [Solution](easy/add-binary/Solution.java)                                          | String                    |
+| 24  | [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=string)                                                                    | [Solution](easy/valid-palindrome/Solution.java)                                    | String                    |
 
 [Back to TOC](#table-of-contents)
 
