@@ -41,6 +41,7 @@
 | 25  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/?envType=problem-list-v2&envId=string)                                                     | [Solution](easy/excel-sheet-column-title/Solution.java)                            | String                    |
 | 26  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/?envType=problem-list-v2&envId=string)                                                   | [Solution](easy/excel-sheet-column-number/Solution.java)                           | String                    |
 | 27  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=string)                                                                           | [Solution](easy/valid-anagram/Solution.java)                                       | String                    |
+| 28  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/?envType=problem-list-v2&envId=string)                                                                   | [Solution](easy/binary-tree-paths/Solution.java)                                   | String                    |
 
 [Back to TOC](#table-of-contents)
 
